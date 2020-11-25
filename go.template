@@ -1,0 +1,6 @@
+type Table struct 
+{
+	ID	uint	`gorm:"column:id;primary_key"`
+	UUID	string	`gorm:"column:uuid"`
+	Name	string	`gorm:"column:name"`
+}
