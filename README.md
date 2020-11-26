@@ -1,5 +1,4 @@
 # table2go
 table to go
 
-
-界面设计：https://www.bootcss.com/p/layoutit/
+you can try:https://gotables.github.io/table2go/
